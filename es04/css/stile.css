@@ -1,0 +1,108 @@
+
+body {background-color: white;}
+.bandiera{ 
+    border: 1px solid black;
+    width: 400px;
+    height: 300px;
+    background-color: black ;
+    position: relative;
+}
+
+.box { 
+    width: 236px;
+    height: 145px;
+    background-color: black;
+    position:absolute;
+    top: 78px;
+    left:76px;
+}
+
+ .circle { 
+    background-color: rgb(101, 99, 99) ;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 30px;
+    left:30px;
+}
+
+.circle2 { 
+    background-color: lightgray ;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 170px;
+    left:30px;
+}
+
+.circle3 { 
+    background-color: lightgray ;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 30px;
+    left:260px;
+}
+
+.circle4 { 
+    background-color: rgb(101, 99, 99) ;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 170px;
+    left:260px;
+}
+
+.circle5 { 
+    background-color: yellow  ;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 30px;
+    left:145px;
+}
+
+.circle6 { 
+    background-color: yellow ;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 170px;
+    left:145px;
+}
+
+.circle7 { 
+    background-color: yellow ;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 135px;
+    left:145px;
+}
+
+.circle8 { 
+    background-color: yellow  ;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 135px;
+    left:215px;
+}
+
+.circle9 { 
+    background-color: yellow;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 135px;
+    left:180px;
+}

@@ -1,0 +1,29 @@
+
+body {background-color: white;}
+.bandiera{ 
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    position: relative;
+}
+
+.box1 {
+    background-color: white;
+    width: 70%;
+    height: 25%;
+    position: absolute;
+    top: 37%;
+    left: 15%;
+
+}
+
+.box2 {
+    background-color: white;
+    width: 25%;
+    height: 70%;
+    position: absolute;
+    top: 15%;
+    left: 37%;
+
+}
